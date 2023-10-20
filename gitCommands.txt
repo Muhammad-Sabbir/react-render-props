@@ -10,6 +10,6 @@ git push -u origin main
 
 
 git add --all
-git commit -m "14. Row updated and duplicate feature implemented for progress table."
+git commit -m "Chapter 28. Advanced React Patterns >> 4. The Render Props Pattern"
 
 git push -u origin main
